@@ -2,5 +2,5 @@
 <item>
   <version>1.3.0.0</version>
   <url>https://github.com/JackDiSpade21/Project-Breach/raw/main/DoubleA%20Launcher.zip</url>
-  <mandatory mode="2">true</mandatory>
+  <mandatory>true</mandatory>
 </item>
