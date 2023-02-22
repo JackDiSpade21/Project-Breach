@@ -1,26 +1,32 @@
 <news>
   <item>
-    <titolo>Versione Mod 0.1.0 12/02/23</titolo>
+    <titolo>Versione Mod 0.1.0</titolo>
     <testo>A data template is now configured to accept both Title and URL node values, displaying each in its own TextBlock.  For purposes of layout, we have arranged these in a single StackPanel.  The Binding tag and XPath attribute have been used to define the specific XML nodes we are interested in pulling data from.</testo>
+    <data>12/02/2023</data>
   </item>
   <item>
     <titolo>Versione Launcher 0.3beta</titolo>
     <testo>A data template is now configured to accept both Title and URL node values, displaying each in its own TextBlock.  For purposes of layout, we have arranged these in a single StackPanel.  The Binding tag and XPath attribute have been used to define the specific XML nodes we are interested in pulling data from. A data template is now configured to accept both Title and URL node values, displaying each in its own TextBlock.  For purposes of layout, we have arranged these in a single StackPanel.  The Binding tag and XPath attribute have been used to define the specific XML nodes we are interested in pulling data from.</testo>
+    <data>12/02/2023</data>
   </item>
   <item>
     <titolo>Versione Mod 0.1.0</titolo>
     <testo>A data template is now configured to accept both Title and URL node values, displaying each in its own TextBlock.  For purposes of layout, we have arranged these in a single StackPanel.  The Binding tag and XPath attribute have been used to define the specific XML nodes we are interested in pulling data from.</testo>
+    <data>12/02/2023</data>
   </item>
   <item>
     <titolo>Versione Launcher 0.3beta</titolo>
     <testo>A data template is now configured to accept both Title and URL node values, displaying each in its own TextBlock.  For purposes of layout, we have arranged these in a single StackPanel.  The Binding tag and XPath attribute have been used to define the specific XML nodes we are interested in pulling data from.</testo>
+    <data>12/02/2023</data>
   </item>
   <item>
     <titolo>Versione Mod 0.1.0</titolo>
     <testo>A data template is now configured to accept both Title and URL node values, displaying each in its own TextBlock.  For purposes of layout, we have arranged these in a single StackPanel.  The Binding tag and XPath attribute have been used to define the specific XML nodes we are interested in pulling data from.</testo>
+    <data>12/02/2023</data>
   </item>
   <item>
     <titolo>Versione Launcher 0.3beta</titolo>
     <testo>A data template is now configured to accept both Title and URL node values, displaying each in its own TextBlock.  For purposes of layout, we have arranged these in a single StackPanel.  The Binding tag and XPath attribute have been used to define the specific XML nodes we are interested in pulling data from.</testo>
+    <data>12/02/2023</data>
   </item>
 </news>
