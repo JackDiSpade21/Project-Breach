@@ -1,32 +1,17 @@
 <news>
   <item>
-    <titolo>Versione Mod 0.1.0</titolo>
-    <testo>A data template is now configured to accept both Title and URL node values, displaying each in its own TextBlock.&#10;For purposes of layout, we have arranged these in a single StackPanel.&#10;The Binding tag and XPath attribute have been used to define the specific XML nodes we are interested in pulling data from.</testo>
-    <data>12/02/2023</data>
-  </item>
-  <item>
-    <titolo>Versione Launcher 0.3beta</titolo>
-    <testo>A data template is now configured to accept both Title and URL node values, displaying each in its own TextBlock.  For purposes of layout, we have arranged these in a single StackPanel.  The Binding tag and XPath attribute have been used to define the specific XML nodes we are interested in pulling data from. A data template is now configured to accept both Title and URL node values, displaying each in its own TextBlock.  For purposes of layout, we have arranged these in a single StackPanel.  The Binding tag and XPath attribute have been used to define the specific XML nodes we are interested in pulling data from.</testo>
-    <data>12/02/2023</data>
+    <titolo>Versione Launcher 0.4</titolo>
+    <testo>Questa versione include la maggior parte delle funzionalità del Launcher, la sezione News, e permette di giocare e gestire la mod perfettamente.&#10;Restano incomplete la sezione Extra e la sezione Info</testo>
+    <data>22/02/2023</data>
   </item>
   <item>
     <titolo>Versione Mod 0.1.0</titolo>
-    <testo>A data template is now configured to accept both Title and URL node values, displaying each in its own TextBlock.  For purposes of layout, we have arranged these in a single StackPanel.  The Binding tag and XPath attribute have been used to define the specific XML nodes we are interested in pulling data from.</testo>
+    <testo>Contenuti della mod attuali:&#10;&#10;• Sun/Moon: 100%&#10;• Monty: 100%&#10;• Chica: 40%&#10;• Altre battute varie</testo>
     <data>12/02/2023</data>
   </item>
   <item>
-    <titolo>Versione Launcher 0.3beta</titolo>
-    <testo>A data template is now configured to accept both Title and URL node values, displaying each in its own TextBlock.  For purposes of layout, we have arranged these in a single StackPanel.  The Binding tag and XPath attribute have been used to define the specific XML nodes we are interested in pulling data from.</testo>
-    <data>12/02/2023</data>
-  </item>
-  <item>
-    <titolo>Versione Mod 0.1.0</titolo>
-    <testo>A data template is now configured to accept both Title and URL node values, displaying each in its own TextBlock.  For purposes of layout, we have arranged these in a single StackPanel.  The Binding tag and XPath attribute have been used to define the specific XML nodes we are interested in pulling data from.</testo>
-    <data>12/02/2023</data>
-  </item>
-  <item>
-    <titolo>Versione Launcher 0.3beta</titolo>
-    <testo>A data template is now configured to accept both Title and URL node values, displaying each in its own TextBlock.  For purposes of layout, we have arranged these in a single StackPanel.  The Binding tag and XPath attribute have been used to define the specific XML nodes we are interested in pulling data from.</testo>
+    <titolo>Versione Launcher 0.3</titolo>
+    <testo>Questa versione del launcher include la gestione semi-completa della mod e gli aggioranmenti automatici del Launcher.&#10;Restano in costruzione la sezione Info ed Extra.</testo>
     <data>12/02/2023</data>
   </item>
 </news>
