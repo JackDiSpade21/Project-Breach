@@ -1,5 +1,10 @@
 <news>
   <item>
+    <titolo>Hotfix Launcher 0.4</titolo>
+    <testo>Lista dei cambiamenti:&#10;&#10;• E' stata cambiata la UI delle schermate ComingSoon e dell'Uninstaller&#10;• Helpy è stato spostato in basso a destra&#10;• Aggiunte nuove varie animazioni&#10;• Aggiunto menù a comparsa per le News&#10;• Ora il Launcher sa se sono state lette le News e avvisa l'utente di nuove news</testo>
+    <data>23/02/2023</data>
+  </item>
+  <item>
     <titolo>Versione Launcher 0.4</titolo>
     <testo>Questa versione include la maggior parte delle funzionalità del launcher, la sezione News, e permette di gestire la mod in maniera completa.&#10;Restano incomplete le sezioni Extra e Info.</testo>
     <data>22/02/2023</data>
