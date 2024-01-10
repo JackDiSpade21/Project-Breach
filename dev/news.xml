@@ -1,5 +1,10 @@
 <news>
   <item>
+    <titolo>Versione Launcher 0.4</titolo>
+    <testo>MANUELEEEEEEE&#10;E' UN COGLIONE</testo>
+    <data>12/02/2023</data>
+  </item>
+  <item>
     <titolo>Hotfix Launcher 0.4</titolo>
     <testo>Lista dei cambiamenti:&#10;&#10;• E' stata cambiata la UI delle schermate ComingSoon e dell'Uninstaller&#10;• Helpy è stato spostato in basso a destra&#10;• Aggiunte varie nuove animazioni&#10;• Aggiunto menù a comparsa per le News (il pulsante è placeholder e verrà modificato)&#10;• Ora il Launcher sa se sono state lette le ultime novità e avvisa l'utente in caso così non fosse&#10;• Aggiunti altri incredibili Faz-Facts</testo>
     <data>23/02/2023</data>
